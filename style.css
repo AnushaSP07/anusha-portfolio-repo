@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap');
 
 :root{
-    --primary-color: #7C3AED;
-    --dark-gray: #6B7280;
+    --primary-color: #4B5563;
+    --dark-gray: #B45309;
+    --dark-gold: #B45309;
     --half-white:#F3F4F6;
 }
 body{
@@ -87,7 +88,11 @@ hr{
 
 .hero .hero-heading{
     padding-top: 1rem;
-    color: var(--dark-gray);
+    color: var(--dark-gold);
+    text-align: center;
+}
+.hero .hero-sub-heading{
+    padding-top: 1rem;
     text-align: center;
 }
 
