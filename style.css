@@ -66,6 +66,7 @@ hr {
 .navigation .nav-brand {
   font-weight: bold;
   font-size: medium;
+  color: black;
 }
 .navigation .nav-pills {
   text-align: right;
@@ -106,6 +107,9 @@ hr {
 }
 .section h1 {
   text-align: center;
+}
+.section-grey {
+  background-color: var(--half-white);
 }
 
 .ow {
